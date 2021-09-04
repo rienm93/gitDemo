@@ -27,4 +27,39 @@ public class AppiumTest4 {
 	{
 		System.out.println("IOSApps running");
 	}
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	м
+	м
+	м
+	
 }
