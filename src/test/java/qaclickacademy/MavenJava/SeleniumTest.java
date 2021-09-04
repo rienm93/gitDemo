@@ -20,5 +20,13 @@ public class SeleniumTest {
 	public void elementsUI() 
 	{
 		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
+		System.out.println("elementsUI running");
 	}
 }
