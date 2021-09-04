@@ -15,4 +15,12 @@ public class RESTAPI_test {
 	{
 		System.out.println("deleteTwitter running");
 	}
+	
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	
+	
 }

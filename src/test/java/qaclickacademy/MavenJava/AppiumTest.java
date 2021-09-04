@@ -15,4 +15,16 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps running");
 	}
+	
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
+	
+	@Test
+	public void IOSApps() 
+	{
+		System.out.println("IOSApps running");
+	}
 }
