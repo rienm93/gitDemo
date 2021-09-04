@@ -13,8 +13,19 @@ public class RESTAPI_test {
 	@Test
 	public void deleteTwitter() 
 	{
-
-		System.out.println("deleteTwitter running");System.out.println("deleteTwitter running");System.out.println("deleteTwitter running");System.out.println("deleteTwitter running");System.out.println("deleteTwitter running");
+		System.out.println("postJira running");System.out.println("postJira running");System.out.println("postJira running");System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		System.out.println("postJira running");
+		
 	}
 	
 	@Test
